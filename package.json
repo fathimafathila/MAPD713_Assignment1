@@ -1,7 +1,7 @@
 {
     "name": "ImageApi",
     "version": "1.0.0",
-    "description": "REST API - Images",
+    "description": "REST API - Images - Assignment1",
     "dependencies": {
         "restify": "4.1.1",
 		"save": "2.3.0"
